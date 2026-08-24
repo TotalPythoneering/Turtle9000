@@ -12,6 +12,8 @@ The full set of programming buttons (Open, Save, Copy, Run) permits the sharing,
 # 🏅Lessons
 We'll be sharing a complete set of programs, demonstrations &amp; lessons on [rumble](https://rumble.com/user/Nagy9000) soon. Stay tuned?
 
+🪄Demo: The [Colorized Vortex](https://youtube.com/shorts/hkJqgYqYL7k) code update.
+
 ## Geeky Details
 Managing long-winded executions of our programs was not an easy operation - at the time of this crafting even A.I was not able to get there, so we've checked in the three-step saga for your educational enjoyment. 😇
 
