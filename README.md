@@ -5,13 +5,13 @@ The full set of programming buttons (Open, Save, Copy, Run) permits the sharing,
 
 ## Overview
 
-**Turtle9000** bridges the gap between coding and execution by providing a real-time, split-screen environment specifically optimized for Python's standard `turtle` graphics. Built on top of customized Tkinter and Turtle abstractions, it provides enhanced state management and framework extensions to track execution conditions seamlessly. The **split-screen interface:** permits 'Pythoneers to write code and view visual execution with a touch of a button.
+**Turtle9000** bridges the gap between coding and execution by providing a real-time, split-screen environment specifically optimized for Python's standard `turtle` graphics. Built on top of customized Tkinter and Turtle abstractions, it provides enhanced state management and framework extensions to track execution conditions seamlessly. The **split-screen interface** permits 'Pythoneers to write code and view visual execution with a touch of a button.
 
 # 🏅Lessons
 We'll be sharing a complete set of programs, demonstrations &amp; lessons on [rumble](https://rumble.com/user/Nagy9000) soon. Stay tuned?
 
 ## Geeky Details
-Managing long-winded executions of our programs was not easy operation - at the time of this crafting even A.I was not able to get there, so we've checked in the three-step saga for your enjoyment. 😇
+Managing long-winded executions of our programs was not an easy operation - at the time of this crafting even A.I was not able to get there, so we've checked in the three-step saga for your educational enjoyment. 😇
 
 ### Main Classes
 *   **`Screen9000(cv)`**: Extends the default Turtle canvas screen layer, ready for custom update cycles.
