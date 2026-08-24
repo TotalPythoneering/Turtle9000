@@ -1,8 +1,8 @@
 # MISSION: Create a split-screen editor + emulator for Turtle Graphics
-# STATUS: Alpha release
+# STATUS: Testing Release
 # VERSION: 2026.08.24
 # NOTES: Looks good!
-# DATE: 2026-08-23 05:32:42
+# DATE: 2026-08-23 08:06:42
 # FILE: TurtleBench.py
 # AUTHOR: Total Pythoneering
 #
@@ -190,11 +190,11 @@ class SplitScreenEditor:
         try:
             self.in_service.set(True)
             exec(self.code_text.get("1.0", tk.END), {}, {"t": self.t, 'root': self.root})
-            self.in_service.set(False)
         except KeyboardInterrupt as ex:
             messagebox.showinfo("Stop", "Run Terminated")
         except Exception as ex:
             messagebox.showinfo("Error", ex)
+        self.in_service.set(False)
         self.AFTER(500, self.__toggle_run_state())
 
     def show_about_art(self):
