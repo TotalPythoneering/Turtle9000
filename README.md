@@ -1,5 +1,7 @@
 # 🏅Turtle9000
-A free &amp; open graphical programming environment for Pythoneers, **Turtle9000** sports a split-screen editor and emulator combination designed to supercharge our Turtle Graphics demonstrations. 
+A free &amp; open graphical programming environment for Pythoneers, **Turtle9000** sports a split-screen editor and emulator combination designed to supercharge our Turtle Graphics demonstrations.
+
+![Alt Text](_graphics/DemoVortex01.gif)
 
 The full set of programming buttons (Open, Save, Copy, Run) permits the sharing, execution as well as real-time reviewing of professional, pragmatic Pythoneering 'ponderables.
 
